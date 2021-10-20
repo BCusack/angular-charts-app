@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "charttester": {
+      "hosting": {
+        "angular-charts-app": [
+          "charttester"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "charttester"
+  }
+}
